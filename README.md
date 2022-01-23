@@ -17,7 +17,6 @@ TBA
 
 2020: [Typologically Diverse Morphological Inflection](https://www.aclweb.org/anthology/2020.sigmorphon-1.1/)
 
-2
 ## References
 ```
 @inproceedings{vylomova2020sigmorphon,
